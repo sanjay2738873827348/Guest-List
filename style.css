@@ -1,0 +1,24 @@
+h1{
+    margin-bottom: 30px;
+    color: purple;
+    text-decoration: underline;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: orange;
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color: blue;
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: goldenrod;
+}
